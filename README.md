@@ -2,13 +2,15 @@
 
 Bachelorarbeit von Leon Giering für die Ludwig-Maximilians-Universität München und das Institut für Rundfunktechnik aus dem Jahr 2019.
 
+# Material
+
 Video (1) : https://drive.google.com/file/d/1DvukJAyVEWOfU5ZefI9fXDAFGnH1NRSO/view?usp=sharing
 
 Video (2) : https://drive.google.com/file/d/15Bw6TvA2gXOlimv0Ru0K0Rg95x6HhDcm/view?usp=sharing
 
 APK       : https://drive.google.com/file/d/13nW59JHevxMqD7yDaIhtrFrwwUcFeV5w/view?usp=sharing
 
-# Zusammenfassung
+# Zusammenfassung / Abstract
 Augmented Reality erfährt seit einigen Jahren einen Hype und zeigt viel Potential. Unter anderem
 gab es im Bildungswesen schon Erfolge bei der Verwendung von Augmented Reality um Sachin-
 halte zu lehren. In dieser Arbeit wird die Einbindung einer Augmented Reality Applikation in das
@@ -20,7 +22,6 @@ der Studie. Die Ergebnisse belegen, dass es sinvoll sein kann TV-basierte AR-Anw
 der Bildung zu verwenden. Die Teilnehmer hatten während der Verwendung der App das Gefühl
 dabei schneller gelernt zu haben.
 
-# Abstract
 Augmented Reality is experiencing a hype for some years now and shows a lot of potential. Among
 other things there were already successes in the educational system with the use of Augmented
 Reality to teach factual content. In this thesis the integration of an Augmented Reality application
