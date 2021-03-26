@@ -1,6 +1,6 @@
 # TV-Based-Augmented-Learning
 
-Bachelorarbeit von Leon Giering für die Ludwig-Maximilians-Universität München und das Institut für Rundfunktechnik aus dem Jahr 2019.
+Bachelorarbeit von Leon Giering, enstanden in Kooperation mit der Ludwig-Maximilians-Universität München und dem Institut für Rundfunktechnik im Jahr 2019.
 
 # Material
 
@@ -39,4 +39,4 @@ Wissenschaftliche Arbeit für "IMX '20: ACM International Conference on Interact
 
 Paper: https://dl.acm.org/doi/10.1145/3391614.3393655
 
-Konferenz-Präsentation (by Simon von der Au): https://www.youtube.com/watch?v=czAfifFrBiE
+Konferenz-Präsentation: https://www.youtube.com/watch?v=czAfifFrBiE
