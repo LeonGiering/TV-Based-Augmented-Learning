@@ -10,7 +10,7 @@ Video (2) : https://drive.google.com/file/d/15Bw6TvA2gXOlimv0Ru0K0Rg95x6HhDcm/vi
 
 APK       : https://drive.google.com/file/d/13nW59JHevxMqD7yDaIhtrFrwwUcFeV5w/view?usp=sharing
 
-# Zusammenfassung / Abstract
+# Zusammenfassung
 Augmented Reality erfährt seit einigen Jahren einen Hype und zeigt viel Potential. Unter anderem
 gab es im Bildungswesen schon Erfolge bei der Verwendung von Augmented Reality um Sachin-
 halte zu lehren. In dieser Arbeit wird die Einbindung einer Augmented Reality Applikation in das
@@ -21,16 +21,6 @@ gen NASA Task Load Index und User Experience Questionaire sowie Oberservationen 
 der Studie. Die Ergebnisse belegen, dass es sinvoll sein kann TV-basierte AR-Anwendungen in
 der Bildung zu verwenden. Die Teilnehmer hatten während der Verwendung der App das Gefühl
 dabei schneller gelernt zu haben.
-
-Augmented Reality is experiencing a hype for some years now and shows a lot of potential. Among
-other things there were already successes in the educational system with the use of Augmented
-Reality to teach factual content. In this thesis the integration of an Augmented Reality application
-into educational television is investigated. A user study with 30 participants was conducted for this
-purpose. The study examined the two use cases (1) explanatory video with augmented reality app
-and (2) explanatory video without app. The qualitative evaluation was based on the questionnai-
-res NASA Task Load Index and User Experience Questionaire as well as observations during the
-study. The results show that it can be useful to use TV-based AR applications for education. The
-participants had the feeling that they had learned faster while using the app.
 
 # Anleitung SpaceStationAR-App:
 Um AR-Objekte platzieren zu können, muss die App zuerst eine Oberfläche im echten Raum erkannt haben. Um den Raum abzuscannen, einfach die Kamera mit geöffneter App über die gewünschte Oberfläche schwenken, bis die erkannte Fläche farblich markiert ist. 
