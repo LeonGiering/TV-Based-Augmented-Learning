@@ -16,8 +16,8 @@ gab es im Bildungswesen schon Erfolge bei der Verwendung von Augmented Reality u
 zu lehren. In dieser Arbeit wird die Einbindung einer Augmented Reality Applikation in das
 Bildungsfernsehen untersucht. Dazu wurde eine Nutzerstudie mit 30 Teilnehmern durchgeführt.
 Bei der Studie wurden die beiden Anwendungsfälle (1) Erklärvideo mit Augmented Reality App
-und (2) Erklärvideo ohne App untersucht. Die qualitative Auswertung basierte auf den Fragebö-
-gen NASA Task Load Index und User Experience Questionaire sowie Oberservationen während
+und (2) Erklärvideo ohne App untersucht. Die qualitative Auswertung basierte auf den Fragebögen
+NASA Task Load Index und User Experience Questionaire sowie Oberservationen während
 der Studie. Die Ergebnisse belegen, dass es sinvoll sein kann TV-basierte AR-Anwendungen in
 der Bildung zu verwenden. Die Teilnehmer hatten während der Verwendung der App das Gefühl
 dabei schneller gelernt zu haben.
