@@ -12,7 +12,7 @@ der Studie. Die Ergebnisse belegen, dass es sinvoll sein kann TV-basierte AR-Anw
 der Bildung zu verwenden. Die Teilnehmer hatten während der Verwendung der App das Gefühl
 dabei schneller gelernt zu haben.
 
-#Abstract
+# Abstract
 Augmented Reality is experiencing a hype for some years now and shows a lot of potential. Among
 other things there were already successes in the educational system with the use of Augmented
 Reality to teach factual content. In this thesis the integration of an Augmented Reality application
