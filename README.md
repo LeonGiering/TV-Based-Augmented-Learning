@@ -12,8 +12,8 @@ APK       : https://drive.google.com/file/d/13nW59JHevxMqD7yDaIhtrFrwwUcFeV5w/vi
 
 # Zusammenfassung
 Augmented Reality erfährt seit einigen Jahren einen Hype und zeigt viel Potential. Unter anderem
-gab es im Bildungswesen schon Erfolge bei der Verwendung von Augmented Reality um Sachin-
-halte zu lehren. In dieser Arbeit wird die Einbindung einer Augmented Reality Applikation in das
+gab es im Bildungswesen schon Erfolge bei der Verwendung von Augmented Reality um Sachinhalte
+zu lehren. In dieser Arbeit wird die Einbindung einer Augmented Reality Applikation in das
 Bildungsfernsehen untersucht. Dazu wurde eine Nutzerstudie mit 30 Teilnehmern durchgeführt.
 Bei der Studie wurden die beiden Anwendungsfälle (1) Erklärvideo mit Augmented Reality App
 und (2) Erklärvideo ohne App untersucht. Die qualitative Auswertung basierte auf den Fragebö-
