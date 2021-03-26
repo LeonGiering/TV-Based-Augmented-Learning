@@ -2,14 +2,6 @@
 
 Bachelorarbeit von Leon Giering, enstanden in Kooperation mit der Ludwig-Maximilians-Universität München und dem Institut für Rundfunktechnik im Jahr 2019.
 
-# Material
-
-Video (1) : https://drive.google.com/file/d/1DvukJAyVEWOfU5ZefI9fXDAFGnH1NRSO/view?usp=sharing
-
-Video (2) : https://drive.google.com/file/d/15Bw6TvA2gXOlimv0Ru0K0Rg95x6HhDcm/view?usp=sharing
-
-APK       : https://drive.google.com/file/d/13nW59JHevxMqD7yDaIhtrFrwwUcFeV5w/view?usp=sharing
-
 # Zusammenfassung
 Augmented Reality erfährt seit einigen Jahren einen Hype und zeigt viel Potential. Unter anderem
 gab es im Bildungswesen schon Erfolge bei der Verwendung von Augmented Reality um Sachinhalte
@@ -22,6 +14,14 @@ der Studie. Die Ergebnisse belegen, dass es sinvoll sein kann TV-basierte AR-Anw
 der Bildung zu verwenden. Die Teilnehmer hatten während der Verwendung der App das Gefühl
 dabei schneller gelernt zu haben.
 
+# IMX '20: The SpaceStation App: Design and Evaluation of an AR Application for Educational Television
+
+Wissenschaftliche Arbeit für "IMX '20: ACM International Conference on Interactive Media Experiences", basierend auf dieser Bachelorarbeit.
+
+Paper: https://dl.acm.org/doi/10.1145/3391614.3393655
+
+Konferenz-Präsentation: https://www.youtube.com/watch?v=czAfifFrBiE
+
 # Anleitung SpaceStationAR-App:
 Um AR-Objekte platzieren zu können, muss die App zuerst eine Oberfläche im echten Raum erkannt haben. Um den Raum abzuscannen, einfach die Kamera mit geöffneter App über die gewünschte Oberfläche schwenken, bis die erkannte Fläche farblich markiert ist. 
 
@@ -33,14 +33,12 @@ Im ersten Teil der App kann die ISS mit bekannten Objekten von der Erde (Fahrzeu
 
 Der zweite Teil der App behandelt die Umlaufbahn der ISS um die Erde. Ähnlich wie im ersten Teil soll wiederum eine passende Oberfläche erkannt werden, darauf wird ein 3D-Modell der Erde mit einer sichtbaren Atmosphäre erscheinen über dem ein 3D-Modell der ISS schwebt. Nach Platzierung und Bestätigung des Modells, fängt die ISS an die Erde zu umkreisen. Die Höhe der ISS ist immer auch in Zahlen angegeben und ist über das untere Menü verstellbar. Des Weiteren wird Orbital Decay auf die ISS angewandt. Dieser Vorgang kann über das untere Menü beschleunigt oder verlangsamt werden. Wenn die ISS auf gefährliche Höhen oder Tiefen kommt, wird der Nutzer visuell darauf hingewiesen. Durch einen Reboost-Button (unten rechts) gewinnt die ISS wieder an Höhe.
 
-# IMX '20: The SpaceStation App: Design and Evaluation of an AR Application for Educational Television
+# Material
 
-Wissenschaftliche Arbeit für "IMX '20: ACM International Conference on Interactive Media Experiences", basierend auf dieser Bachelorarbeit.
+Video (1) : https://drive.google.com/file/d/1DvukJAyVEWOfU5ZefI9fXDAFGnH1NRSO/view?usp=sharing
 
-Paper: https://dl.acm.org/doi/10.1145/3391614.3393655
+Video (2) : https://drive.google.com/file/d/15Bw6TvA2gXOlimv0Ru0K0Rg95x6HhDcm/view?usp=sharing
 
-Konferenz-Präsentation: https://www.youtube.com/watch?v=czAfifFrBiE
+APK       : https://drive.google.com/file/d/13nW59JHevxMqD7yDaIhtrFrwwUcFeV5w/view?usp=sharing
 
-# Code
-
-Das Unity-Projekt ist auf nachfrage gerne einzusehen. Die Dateien übersteigen das Datenlimit von 100MB auf Github.
+Code: Das Unity-Projekt ist auf nachfrage gerne einzusehen. Die Dateien übersteigen bloß das Datenlimit von 100MB auf Github.
