@@ -40,3 +40,7 @@ Wissenschaftliche Arbeit für "IMX '20: ACM International Conference on Interact
 Paper: https://dl.acm.org/doi/10.1145/3391614.3393655
 
 Konferenz-Präsentation: https://www.youtube.com/watch?v=czAfifFrBiE
+
+# Code
+
+Das Unity-Projekt ist auf nachfrage gerne einzusehen. Die Dateien übersteigen das Datenlimit von 100MB auf Github.
