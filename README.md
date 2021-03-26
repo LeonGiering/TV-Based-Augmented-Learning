@@ -16,7 +16,7 @@ dabei schneller gelernt zu haben.
 
 # IMX '20: The SpaceStation App: Design and Evaluation of an AR Application for Educational Television
 
-Wissenschaftliche Arbeit für "IMX '20: ACM International Conference on Interactive Media Experiences", basierend auf dieser Bachelorarbeit.
+Eine Wissenschaftliche Arbeit, basierend auf dieser Bachelorarbeit, für die Konferenz: "IMX '20: ACM International Conference on Interactive Media Experiences".
 
 Paper: https://dl.acm.org/doi/10.1145/3391614.3393655
 
@@ -35,10 +35,10 @@ Der zweite Teil der App behandelt die Umlaufbahn der ISS um die Erde. Ähnlich w
 
 # Material
 
+APK       : https://drive.google.com/file/d/13nW59JHevxMqD7yDaIhtrFrwwUcFeV5w/view?usp=sharing
+
 Video (1) : https://drive.google.com/file/d/1DvukJAyVEWOfU5ZefI9fXDAFGnH1NRSO/view?usp=sharing
 
 Video (2) : https://drive.google.com/file/d/15Bw6TvA2gXOlimv0Ru0K0Rg95x6HhDcm/view?usp=sharing
-
-APK       : https://drive.google.com/file/d/13nW59JHevxMqD7yDaIhtrFrwwUcFeV5w/view?usp=sharing
 
 Code: Das Unity-Projekt ist auf nachfrage gerne einzusehen. Die Dateien übersteigen bloß das Datenlimit auf Github.
