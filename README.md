@@ -41,4 +41,4 @@ Video (2) : https://drive.google.com/file/d/15Bw6TvA2gXOlimv0Ru0K0Rg95x6HhDcm/vi
 
 APK       : https://drive.google.com/file/d/13nW59JHevxMqD7yDaIhtrFrwwUcFeV5w/view?usp=sharing
 
-Code: Das Unity-Projekt ist auf nachfrage gerne einzusehen. Die Dateien übersteigen bloß das Datenlimit von 100MB auf Github.
+Code: Das Unity-Projekt ist auf nachfrage gerne einzusehen. Die Dateien übersteigen bloß das Datenlimit auf Github.
