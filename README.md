@@ -32,3 +32,11 @@ Um AR-Objekte platzieren zu können, muss die App zuerst eine Oberfläche im ech
 Im ersten Teil der App kann die ISS mit bekannten Objekten von der Erde (Fahrzeuge, Tiere, o.ä.) verglichen werden. Nachdem eine passende Oberfläche gefunden wurde erscheint ein 3D-Modell der ISS darauf, man kann die Position des Modells anpassen und die Platzierung anschließend bestätigen. Danach steht ein Menü zur Verfügung aus dem sich der Nutzer aus einer Liste an Objekten eines aussuchen und frei um die ISS platzieren kann. Alle platzierten Objekte haben ein realistisches Größenverhältnis zueinander und können zusammen skaliert werden (durch „pinchen“, während kein Objekt ausgewählt ist). Es gibt zudem eine Anzeige, die das Gewicht der ISS mit dem aller platzierter Objekte gegenüberstellt.
 
 Der zweite Teil der App behandelt die Umlaufbahn der ISS um die Erde. Ähnlich wie im ersten Teil soll wiederum eine passende Oberfläche erkannt werden, darauf wird ein 3D-Modell der Erde mit einer sichtbaren Atmosphäre erscheinen über dem ein 3D-Modell der ISS schwebt. Nach Platzierung und Bestätigung des Modells, fängt die ISS an die Erde zu umkreisen. Die Höhe der ISS ist immer auch in Zahlen angegeben und ist über das untere Menü verstellbar. Des Weiteren wird Orbital Decay auf die ISS angewandt. Dieser Vorgang kann über das untere Menü beschleunigt oder verlangsamt werden. Wenn die ISS auf gefährliche Höhen oder Tiefen kommt, wird der Nutzer visuell darauf hingewiesen. Durch einen Reboost-Button (unten rechts) gewinnt die ISS wieder an Höhe.
+
+# IMX '20: The SpaceStation App: Design and Evaluation of an AR Application for Educational Television
+
+Wissenschaftliche Arbeit für "IMX '20: ACM International Conference on Interactive Media Experiences", basierend auf dieser Bachelorarbeit.
+
+Paper: https://dl.acm.org/doi/10.1145/3391614.3393655
+
+Konferenz-Präsentation (by Simon von der Au): https://www.youtube.com/watch?v=czAfifFrBiE
