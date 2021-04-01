@@ -41,4 +41,4 @@ Video (1) : https://drive.google.com/file/d/1DvukJAyVEWOfU5ZefI9fXDAFGnH1NRSO/vi
 
 Video (2) : https://drive.google.com/file/d/15Bw6TvA2gXOlimv0Ru0K0Rg95x6HhDcm/view?usp=sharing
 
-Code: Das Unity-Projekt ist auf nachfrage gerne einzusehen. Die Dateien übersteigen bloß das Datenlimit auf Github.
+Code: Das Unity-Projekt ist auf Nachfrage gerne einzusehen. Die Dateien übersteigen bloß das Datenlimit auf Github.
